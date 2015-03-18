@@ -115,7 +115,7 @@ The below rubric is for specific programming assignments that arise during the c
 
 
 
-
+---
 
 		
 ## Stage 3 - Plan Learning Experiences
@@ -123,21 +123,20 @@ What sequence of teaching and learning experiences will equip students to engage
 
 | | | Lesson |
 |---|---|-----|
-|  1 | 	| |
-|  2 | 	|	|
-|  3 | 	|	|
-|  4 | 	|	|
-|  5 | 	|	|
-|  6 | 	|	|
-|  7 | 	|	|
-|  8 | 	|	|
-|  9 | 	|	|
-| 10 | 	|	|
-| 11 | 	|	|
-| 12 | 	|	|
-| 13 | 	|	|
-| 14 | 	|	|
-| 15 | 	|	|
+| 1  | W	| Students will be introduced to the concept of programming and markup and what it is	|
+| 2  | W	| Students will be introduced to the basic principles of how to make their own markdown	|
+| 3  | E2 | Students will be introduced to the basic principles of how to make their own program	|
+| 4  | W | Students will be taught about existing programs and how they interact with them on a daily basis	|
+| 5  | E | Students will be shown good and bad coding practices so that they are aware of how to program in an effective manor to receive a good grade	|
+| 6  | E | Students will be taught why good programming practices are important and how good code is helpful	|
+| 7  | E2 | Students will be asked to implement concepts they have learned in various programs, and tie them into other lesson subjects so that they make the connection between what they are doing and the real-world	|
+| 8  | H | Students will make fun applications as well as practical tools- for instance, games can be easily built using programming languages like scratch- or javascript game engines.	|
+| 9  | R | Students will be asked to revisit their code on multiple occasions in order to reinforce both new and old concepts	|
+| 10 | T | Students who of different learning types will be allowed to watch relevant videos, lectures, or read about the subject matter	|
+| 11 | T | Students will be permitted to do different levels of program difficulty depending on their performance and ability	|
+| 12 | O | Students will be slowly introduced to concepts which build upon each other, and assessed at various times throughout the learning cycle.	|
+| 13 | R | Students will be asked evaluate existing programs so they can see how programs work	|
+| 14 | H | Hopefully the ability to see their work immediately translated into usable items will be enough to hook some students- for others there are games.	|
 
 
 
@@ -145,10 +144,12 @@ What sequence of teaching and learning experiences will equip students to engage
 
 | Week Number | Monday | Tuesday | Wednesday | Thursday | Friday |
 |-------------|--------|---------|-----------|----------|--------|
-| 1 | 
-| 2 |
-| 3 | 
-| 4 | 
+| 1 | The first day will be dedicated to an introduction to what programming is and the basic parts of code and computers | The second day will be an introduction to basic programming concepts and how each of them is used- this lesson will focus on markdown | The third day will focus on markdown as a tool for writing, and students will be asked to provide several writing samples in the form of markdown- this will primarily be a writing intensive lesson | The fourth day will be more advanced concepts of markdown- like rendering into HTML, and how those concepts are important | The last day will be for fun, and students will be asked to make a single page about themselves using markdown- and be able to choose from some pre-made formats that they can use to make their page more interesting! |
+| 2 | The lesson today will be an introduction to Javascript code, and will be a basic lesson on the syntax and what the elements of the syntax mean. This will be tied into Markup and how the syntax of that is important as well | Today the students will write their first "Hello World" program | The students will learn more in depth programming concepts and apply them throughout the day | Students will be given a series of programming problems based on what they have learned to date, and be expected to work in groups to write their programs | Students will be given the hardware necessary to make their first project, and will be able to work on the project in groups, but will be expected to return their own work. |
+| 3 | Students will be introduced to more concepts of how programming is used around them | Students will start the program that is based on the mathmatics lessons, and be expected to add to/edit their code as the year progresses | Students will be given an assignment to manipulate their Markup using a program that they write and will be able to see results on the screen. | Students will be given an introduction to how video games work, with lots of examples of games that they enjoy playing- including some game-play in class- with the occasional multiple choice question (given using the hardware project they made earlier) so as to engage them in the game, as well as force them to pay attention to the underlying technology  | Students will be given an introduction to Game Scripting, and given a few rudimentary tasks to complete within a Game engine |
+| 4 | Students will be able to create their own game (with a large amount of direction) and will spend the entire week on building this simple game | Students will be given base art assets to work with and be given direction on how to edit those art assets for their own games. | Students will be given time to work on their games with oversight from the teacher | Students will be again given time to work on their games with oversight from the teacher | students will be given more time to work on their games, and at the end of the day they will be given the option to play other student's games (if the other student's are willing to let them play) | 
+
+*As a note, any programs used to write code or create their games will be available at home as well as at school so that students are able to create their game outside of the classroom if they desire*
 
 
 
