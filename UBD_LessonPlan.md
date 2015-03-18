@@ -26,7 +26,8 @@ Students will understand that...
 1. Programming is anything we do to give instructions to computers.
 2. Programming plays a crucial role in the modern age.
 3. Almost any task can be simplified by incorporating a programming element.
-4. Sometimes the programming of a task takes longer than the task itself ![ex.](http://imgs.xkcd.com/comics/is_it_worth_the_time.png)
+4. Sometimes the programming of a task takes longer than the task itself
+	* [ex.](http://imgs.xkcd.com/comics/is_it_worth_the_time.png)
 5. Programming skills that will be learned:
 	* The basics of formatting
 	* Conditional Logic (if, if..else, and, or)
@@ -43,8 +44,8 @@ Students will understand that...
 
 #### Students will be able to
 1. Write a simple program
-	* ex: Hello World
-	* ex: Simple Calculator
+	* ex: Write a "Hello World" program
+	* ex: Write a "Simple Calculator" program
 2. Use and execute conditional logic
 3. Automate a simple task 
 	* ex: Adding the Date to their lab sheet
@@ -61,7 +62,7 @@ Students will understand that...
 
 Two performance tasks will be used to measure student's ability to write code at the end of the month. Both will be graded with the second rubric below, and as many intermediate tasks as possible will include a portion which can be graded using the first rubric. 
 
-1. Students will be asked to write a small program in which they can answer multiple choice questions asked throughout the rest of the year by pressing one of 4 buttons during a prompt. Some hardware and software will be provided, specifically so that students are not tasked with putting hardware circuits together. Each student will be given their own hardware set and asked to write code which can be executed on the hardware. The coding task itself is not a difficult task, and uses only conditional statements- any provided code and libraries that they need to interact with will be explained- which will also lead into discussion of libraries in programming (code that other people wrote which the students are able to use), and their code will be executed inside of a "Virtual Box", which allows students to write code that can not mess-up/break the rest of the system. 
+1. Students will be asked to write a small program in which they can answer multiple choice questions asked throughout the rest of the year by pressing one of 4 buttons during a prompt given on the board/powerpoint during other lessons. Some hardware and software will be provided, specifically so that students are not tasked with putting hardware circuits together. Each student will be given their own hardware set and asked to write code which can be executed on the hardware. The coding task itself is not a difficult task, and uses only conditional statements- any provided code and libraries that they need to interact with will be explained- which will also lead into discussion of libraries in programming (code that other people wrote which the students are able to use), and their code will be executed inside of a "Virtual Box", which allows students to write code that can not mess-up/break the rest of the system. 
 
 2. Students will be asked to write another simple program which walks through several mathematical concepts- addition, subtraction, multiplication, division, and comparators (i.e. > < =). The functionality of this program will be that students will be able to input a whole number, and the program should:
 	1. Output the number as a string (ex. 500 -> Five Hundred)
