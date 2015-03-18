@@ -26,7 +26,7 @@ Students will understand that...
 1. Programming is anything we do to give instructions to computers.
 2. Programming plays a crucial role in the modern age.
 3. Almost any task can be simplified by incorporating a programming element.
-4. Sometimes the programming of a task takes longer than the task itself [ex.](http://imgs.xkcd.com/comics/is_it_worth_the_time.png)
+4. Sometimes the programming of a task takes longer than the task itself ![ex.](http://imgs.xkcd.com/comics/is_it_worth_the_time.png)
 5. Programming skills that will be learned:
 	* The basics of formatting
 	* Conditional Logic (if, if..else, and, or)
